@@ -1,0 +1,47 @@
+/* 
+
+Example Client Application Styles 
+
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+body {
+    font-family: 'Roboto Slab', serif;
+    background-color: #FFF8E1;
+}
+
+/* 
+
+Required for widget styling
+
+*/
+
+.overlay {
+    position: fixed;
+    /* Positioning and size */
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(128, 128, 128, 0.5);
+    /* color */
+    display: none;
+}
+
+.modal-widget {
+    position: fixed;
+    /* positioning in center of page */
+    top: 50vh;
+    left: 50vw;
+    transform: translate(-50%, -50%);
+    height: 75%;
+    /* size */
+    width: 75%; 
+    /* background color */
+}
+
+iframe {
+    border: 0;
+    box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+}

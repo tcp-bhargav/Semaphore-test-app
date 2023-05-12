@@ -1,0 +1,43 @@
+<html xmlns="http://www.w3.org/1999/html">
+
+<head>
+  <link rel="stylesheet" href="bootstrap.min.css" />
+  <link rel="stylesheet" href="main.css" />
+</head>
+
+<body>
+  <div class="container my-5">
+    <div class="row">
+      <div class="col-8 offset-2">
+        <h1 class="display-4 text-center my-5">Example Client Application</h1>
+        <form action="./cache/form/save" method="post" onsubmit="return onSubmit()" target="output_iframe"
+          enctype="multipart/form-data">
+          <div class="mb-3">
+            <label for="title" class="form-label">Title</label>
+            <input type="text" id="title" class="form-control" name="title" />
+          </div>
+          <div class="mb-3">
+            <label for="file" class="form-label">Upload File</label>
+            <input type="file" id="file" class="form-control" name="file" />
+          </div>
+          <div class="mb-3">
+            <label for="text" class="form-label">Text</label>
+            <textarea class="form-control" id="text" placeholder="Please enter some text..." name="text"></textarea>
+          </div>
+          <button type="submit" class="btn btn-lg btn-dark">Submit</button>
+
+          <input type="hidden" name="cancel_cb" value="cancel" />
+          <input type="hidden" name="results_path_prefix" value="cache/results/save" />
+          <input type="hidden" name="done_cb" value="done" />
+
+        </form>
+      </div>
+    </div>
+  </div>
+  <div class="overlay" id="widget_content">
+    <iframe class="modal-widget" name="output_iframe"></iframe>
+  </div>
+</body>
+<script src="main.js"></script>
+
+</html>

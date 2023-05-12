@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nitf version="-//IPTC//DTD NITF 3.4//EN" change.date="October 18, 2006" change.time="19:30">
+  <head>
+    <title>Unemployment-Benefits</title>
+    <tobject tobject.type="news">
+      <tobject.property tobject.property.type="current" />
+      <tobject.subject tobject.subject.ipr="IPTC" />
+    </tobject>
+    <docdata management-status="usable">
+      <doc-id id-string="1315b009c898c44524b347df87f82340" />
+      <doc.copyright holder="The Canadian Press. All rights reserved." year="2022" />
+      <doc-scope scope="Business,International" />
+      <date.expire norm="YYYYMMDD000000-HHMM" />
+      <date.issue norm="20220922T090050-0400" />
+      <date.release norm="YYYYMMDD000000-HHMM" />
+      <ed-msg info="" />
+      <key-list>
+        <keyword>Business</keyword>
+        <keyword>International</keyword>
+      </key-list>
+      <series series.part="2" series.totalpart="0" />
+    </docdata>
+    <revision-history norm="20220922T090050-0400" comment="EDITS: minor edits. With AP Photos." />
+    <urgency ed-urg="2" />
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>More Americans apply for jobless aid last week</hl1>
+        <hl2>More Americans apply for jobless aid last week</hl2>
+      </hedline>
+      <byline>
+        <person>Matt Ott</person>
+        <byttl>The Canadian Press</byttl>
+      </byline>
+      <dateline>
+        <location>
+          <city>Washington</city>
+          <state>District of Columbia</state>
+          <country>United States</country>
+        </location>
+        <story.date norm="20220922T090050-0400" />
+      </dateline>
+      <distributor>THE CANADIAN PRESS</distributor>
+      <abstract>
+        <media>
+          <media-metadata name="TransRef" value="2022090109094-6310add20e4c200aa58c8255jpeg" />
+        </media>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block Id="CPPHOTO">
+        <media media-type="image">
+          <media-reference source="2022090109094-6310add20e4c200aa58c8255jpeg.jpg" />
+          <media-caption>FILE - Hiring sign is displayed at a restaurant in Highland Park, Ill., Thursday, July 14, 2022. Fewer Americans filed for unemployment benefits last week as the labor market continues to shine despite weakening elements of the U.S. economy. Applications for jobless aid for the week ending Aug. 27, fell by 5,000 to 232,000, the Labor Department reported Thursday, Sept. 1. (AP Photo/Nam Y. Huh)</media-caption>
+          <media-producer>NH</media-producer>
+          <media-metadata name="TransRef" value="NYBZ403" />
+        </media>
+      </block>
+      <block id="CPARTICLE">
+        <p>WASHINGTON (AP) — The number of Americans filing for jobless benefits rose slightly last week with the Federal Reserve pushing hard to cool the economy and tamp down inflation. </p>
+        <p>Applications for unemployment benefits for the week ending Sept. 17 rose by 5,000 to 213,000, the Labor Department reported Thursday. Last week's number was revised down by 5,000 to 208,000, the lowest figure since May.</p>
+        <p>First-time applications generally reflect layoffs.</p>
+        <p>The four-week average for claims, which evens out some of the weekly volatility, fell by 6,000 to 216,750.</p>
+        <p>On Wednesday, the Federal Reserve <a href="https://apnews.com/article/inflation-jackson-wyoming-economy-prices-56ec82b99e24cab74a9ed102848930a3">raised its benchmark short-term borrowing rate</a> by another three-quarters of a point in an effort to bring down persistent, decades-high inflation. Though gas prices have steadily retreated since summer, <a href="https://apnews.com/article/inflation-economy-prices-f2270f4c6ac55c084108d57cc1aec53a">prices for food and other essentials</a> remain elevated enough that the Fed has indicated it will keep raising its benchmark interest rate until prices come back down to normal levels.</p>
+        <p>Fed officials have pointed to the remarkably resilient U.S. labor market as added justification for raising rates five times this year, including three 75-basis point hikes in a row. </p>
+        <p>The Fed’s move boosted its benchmark short-term rate, which affects many consumer and business loans, to a range of 3% to 3.25%, the highest level since early 2008. The officials also forecast that they will further raise their benchmark rate to roughly 4.4% by year’s end, a full point higher than they had envisioned as recently as June. </p>
+        <p>Fed Chair Jerome Powell said that before Fed officials would consider halting their rate hikes, they want to be confident that inflation is retreating to their 2% target. He noted that the strength of the job market is fueling pay gains that are helping drive up inflation.</p>
+        <p>He emphasized his belief that <a href="https://apnews.com/article/inflation-jerome-powell-unemployment-government-and-politics-96092b0d276a604b3c1e83f44b8e2ec9">curbing inflation is vital</a> to ensuring the long-term health of the job market.</p>
+        <p>“If we want to light the way to another period of a very strong labor market,” Powell said, “we have got to get inflation behind us. I wish there was painless way to do that. There isn’t.”</p>
+        <p>For now, businesses remain desperate to find workers, posting more than 11 million job openings in July, meaning there are almost two job vacancies for every unemployed American.</p>
+        <p>Earlier this month, the Labor Department reported that employers added still-strong 315,000 jobs in August, though less than the average 487,000 a month over the past year. The unemployment rate ticked up to 3.7%, largely because hundreds of thousands of people returned to the job market. Some didn’t find work right away, so the government’s count of unemployed people rose.</p>
+        <p>The U.S. economy has been a mixed bag this year, with economic growth declining in the first half of 2022. Investors and economist worry that the Fed's aggressive rate hikes could force companies to cut jobs and tip the economy into a recession.</p>
+        <p>Online real estate companies RedFin and Compass recently announced job cuts as rising interest rates have cooled the housing market. The National Association of Realtors reported Wednesday that <a href="https://apnews.com/article/home-sales-mortgages-mortgage-rates-0210b7efc503b8c601c756d60ba0a07f">sales of existing homes fell again in August</a>, the seventh straight monthly decline.</p>
+        <p>Other high-profile layoffs announced in recent months include The Gap, Tesla, Netflix, Carvana and Coinbase.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>
